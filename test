@@ -1,0 +1,8 @@
+#Testing out the shooting method for simple cases
+function sum(x,y)
+    x+y
+end
+
+print(sum(10,5))
+
+
