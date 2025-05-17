@@ -8,3 +8,5 @@ function subtract(x,y)
     x-y
 end
 subtract(4,4)
+
+print(sqrt(cos(2*pi)))
